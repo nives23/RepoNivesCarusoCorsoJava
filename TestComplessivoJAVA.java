@@ -329,4 +329,7 @@ public class TestComplessivoJAVA{
         return randomNum;
       }
 
+      /*questa funzione l'ho presa da 
+      https://www.mrw.it/java/generare-numeri-random-java_6772.html#:~:text=Utilizzare%20Math.&text=random()%2C%20quindi%2C%20%C3%A8%20un,random()%3B
+      */
 }   //chiusura classe
