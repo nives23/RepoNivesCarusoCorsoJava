@@ -17,3 +17,5 @@ Il codice java che useremo nel corso
 15/11/22 h.17:40 ---> Aggiunta del file "EsercizioTotale1.java"
 
 16/11/22 h.14:12 ---> Aggiunta del file "TestComplessivoJAVA.java"
+
+16/11/22 h.16:13 ---> Aggiunta del file aggiornato "TestComplessivoJAVA.java"
